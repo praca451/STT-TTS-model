@@ -1,0 +1,22 @@
+# System-Level Dependency for Audio Processing
+ffmpeg-python
+
+# Core Libraries
+torch>=1.9.0
+torchaudio
+torchvision
+vosk
+pydub
+TTS
+transformers
+accelerate
+sentencepiece
+bitsandbytes
+pandas
+jedi
+networkx
+decorator
+scipy==1.10.1
+numba
+numpy
+librosa
